@@ -1,0 +1,90 @@
+[
+  {
+    "id": "53f9b00d-7fa8-4dfb-9003-8bd1eafe046b",
+    "title": "Primer tarea editadadasdasdasdasd",
+    "description": "descripcionnn",
+    "completed": true,
+    "createdAt": "2025-06-21T20:29:39.192Z",
+    "updatedAt": "2025-06-21T21:30:47.754Z"
+  },
+  {
+    "id": "3f2b6488-948d-4fb6-8e78-26d3098e7ee9",
+    "title": "Segunda tarea editadadaada",
+    "description": "asdasd",
+    "completed": false,
+    "createdAt": "2025-06-21T20:30:19.961Z",
+    "updatedAt": "2025-06-21T20:41:24.084Z"
+  },
+  {
+    "id": "b80788b1-f076-4a8d-8869-ed4994874282",
+    "title": "Otra prueba",
+    "description": "mas",
+    "completed": true,
+    "createdAt": "2025-06-21T21:33:42.629Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3f47dc0a-5122-494c-a069-18ac1e02f99a",
+    "title": "asdasd",
+    "description": "edede",
+    "completed": false,
+    "createdAt": "2025-06-21T22:17:54.375Z",
+    "updatedAt": null
+  },
+  {
+    "id": "edd79cf2-2a96-41cc-9797-340e296f9344",
+    "title": "rgrgrg",
+    "description": "asdasd",
+    "completed": false,
+    "createdAt": "2025-06-21T22:17:56.742Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9378176f-4724-45e1-9828-959011c0ea70",
+    "title": "grgrgasdasd",
+    "description": "asdasda",
+    "completed": false,
+    "createdAt": "2025-06-21T22:17:59.885Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5aff04ce-5482-4553-85db-b2dfa723e30b",
+    "title": "fefasdasda",
+    "description": "asdasdasd",
+    "completed": true,
+    "createdAt": "2025-06-21T22:19:12.360Z",
+    "updatedAt": null
+  },
+  {
+    "id": "287125d2-4499-4cbb-a050-ca4b7f000b75",
+    "title": "cxvxcvxcvxcv",
+    "description": "asdasdasd",
+    "completed": false,
+    "createdAt": "2025-06-21T22:19:15.940Z",
+    "updatedAt": null
+  },
+  {
+    "id": "46052a99-6a6c-4e00-b548-bb831d76f5f5",
+    "title": "xcvxcfhergerg",
+    "description": "sdasdasdasd",
+    "completed": false,
+    "createdAt": "2025-06-21T22:19:19.132Z",
+    "updatedAt": null
+  },
+  {
+    "id": "139a27ea-582c-4060-b693-e10bda685d13",
+    "title": "nhnhyny",
+    "description": "sdasdasd",
+    "completed": false,
+    "createdAt": "2025-06-21T22:19:21.496Z",
+    "updatedAt": null
+  },
+  {
+    "id": "76ca4e2e-a155-4de1-bcd2-f2c52b0b623c",
+    "title": "jmuj5ret",
+    "description": "yyyy",
+    "completed": true,
+    "createdAt": "2025-06-21T22:19:25.204Z",
+    "updatedAt": null
+  }
+]
